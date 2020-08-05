@@ -1,3 +1,14 @@
+# TOWER-OF-HANOI-REACT
+the purpose of this project is to get familiar with the beautiful-dnd react library by building the classic mathematical  game "TOWER OF HANOI"
+
+### The Technologies Used:
+  * Tailwind CSS
+  * React:
+    * Context API
+    * Hooks
+    * beautiful-dnd
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
